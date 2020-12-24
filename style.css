@@ -1,0 +1,98 @@
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+.cloud-img1 {
+   position: absolute;
+   top: 50px;
+   right: 300px;
+  
+}
+
+.span {
+    text-decoration: underline;
+   
+}
+
+.heading {
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    
+    
+
+}
+
+.cloud-img2 {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+h2 {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 1.8rem;
+    margin: 0 auto 26.560px auto;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.paragraph {
+    
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: normal;
+    
+
+}
+
+.footer-link {
+    color: #11999E;
+}
+
+.btn {
+    color: #11999E;
+    
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.middle-container {
+    
+}
+
+.skill-icon {
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+}
+
+.hacker-icon {
+    width: 25%;
+    float: right;
+    margin-left: 30%;
+}
+
+.my-passion-description {
+    clear: right;
+}
